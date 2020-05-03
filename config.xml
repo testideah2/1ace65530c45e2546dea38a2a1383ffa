@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.sladlavka.app"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.2.0">
 
-    <name>ТЕСТ. sladlavka.ru</name>
+    <name>sladlavka.ru</name>
 
     <description>
         Мобильное приложение Сладкая лавка
